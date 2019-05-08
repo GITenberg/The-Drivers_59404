@@ -1,5 +1,8 @@
 _repo: The-Drivers_59404
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59404-h/images/cover.jpg
 creator:
   author:
     agent_name: Ludwig, Edward W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '35976'
     url: http://www.gutenberg.org/2009/agents/35976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59404#The-Drivers
 gutenberg_issued: '2019-05-01'
 gutenberg_type: Text
 identifiers:
